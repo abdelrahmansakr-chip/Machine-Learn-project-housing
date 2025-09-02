@@ -1,2 +1,5 @@
-# Machine-Learn-project-housing
-I have made 3 Machine Learning models to predict median pricing of houses in multiple different places according to median income, total number of households, total number of rooms, population and so on, then i compared between them in accuracy and chose the most accurate one.
+# 🏠 House Price Prediction using Machine Learning
+
+📌 Project Overview
+This project focuses on building and comparing Machine Learning models to predict the median house pricing in different locations based on several socioeconomic and demographic features.
+The goal is to evaluate multiple algorithms, analyze their performance, and select the most accurate model for reliable house price prediction.
